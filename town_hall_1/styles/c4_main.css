@@ -4,7 +4,10 @@ body {
     font-size: 100%;
 }
 
-header {
+/* the styles for the header */
+header h2{
+	font-size:170%;
+	color: #800000
 	
 /* the styles for the header */
 header img {

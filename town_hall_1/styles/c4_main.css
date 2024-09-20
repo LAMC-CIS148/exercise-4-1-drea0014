@@ -6,7 +6,8 @@ body {
 /* the styles for the header */
 header img {
 	float: left;
-	<h2 style="font-size: 170%; color: #800000; text-indent: 30px;>
+	<h2 style="font-size:170%; color:#800000; text-indent:30px;>
+	<h3 style="font-size:130%; font-family:italics; text-indent:30px;
 }
 
 /* the styles for the main content */
